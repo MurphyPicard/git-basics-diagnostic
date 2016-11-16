@@ -21,6 +21,7 @@ git checkout -b <newbranch>
 ```sh
 git branch response
 git checkout response
+
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
