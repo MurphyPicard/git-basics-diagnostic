@@ -41,3 +41,4 @@ git add diagnostic.md
 What are the two formatting items you **need** to make up your commit message?
 
 git commit
+git commit -m "third try"
